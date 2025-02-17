@@ -1,3 +1,3 @@
 token:
   expiration_time: 86400000
-  secret: user-token-secret-jwt-key-24325-3heckma_test
+  secret: user-token-secret-jwt-key-24325-3heckma
